@@ -1,16 +1,5 @@
 <h1 align="center">JS - Projeto Compra pizzas </h1>
 
-# Índice
-- [Índice](#índice)
-- [🛠 Sobre o Projeto JS - Compra pizzas](#-sobre-o-projeto-js---compra-pizzas)
-- [🚀 Tecnologias utilizadas neste projeto](#-tecnologias-utilizadas-neste-projeto)
-- [📥 Como usar](#-como-usar)
-- [🚀 Developer](#-developer)
-- [📞 Contate a Dev](#-contate-a-dev)
-  
----
-# 🛠 Sobre o Projeto JS - Compra pizzas
-
 <img src="./img/readme.png" width="100%" height="auto" />
 
 
